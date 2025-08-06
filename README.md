@@ -6,10 +6,6 @@ A React-based local AI agent interface with an animated robot icon and multi-lin
 
 <img width="1156" alt="Local Agent" src="https://github.com/user-attachments/assets/bd345fcc-8879-47e4-a60f-ab67cf61c05a" />
 
-
-## 🎬 Setup Video
-
-
 ## 🚀 Clone & Run
 
 ```bash
